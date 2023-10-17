@@ -1,0 +1,11 @@
+
+
+.ms_container {
+    width: 100%;
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(30, 237, 11);
+    background-color: rgb(15, 15, 205);
+}
